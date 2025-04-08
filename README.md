@@ -111,7 +111,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any inquiries or support, please contact:
 
 - **Name**: Hassan Qureshi
-- **Email**: hassan.qureshi@example.com
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/m-hassan-qureshi/)
 
 ---
 
